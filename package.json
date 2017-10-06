@@ -1,0 +1,19 @@
+{
+  "name": "wownews",
+  "version": "1.0.0",
+  "description": "A companion tutorial to Lonamic",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmiPhil/WowNews.git"
+  },
+  "author": "EmiPhil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmiPhil/WowNews/issues"
+  },
+  "homepage": "https://github.com/EmiPhil/WowNews#readme"
+}
